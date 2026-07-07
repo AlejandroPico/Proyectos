@@ -2,6 +2,16 @@
   color-scheme: light dark;
   --radius:1.35rem;
   --shadow:0 22px 70px rgba(29,39,61,.18);
+  --bg:#f5f1e8;
+  --surface:#fffaf1;
+  --surface-2:#ebe3d3;
+  --text:#232323;
+  --muted:#6a6257;
+  --line:rgba(49,43,36,.16);
+  --accent:#b35c2e;
+  --accent-2:#305f72;
+  --chip:#efe0c8;
+  --nav:rgba(245,241,232,.9);
 }
 
 body[data-theme="light"]{
