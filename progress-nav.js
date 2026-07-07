@@ -12,7 +12,7 @@ function initProgressNavigation(){
       .scroll-progress{position:absolute;left:0;top:0;width:100%;height:3px;pointer-events:none;background:color-mix(in srgb,var(--line) 65%,transparent);z-index:50;}
       .scroll-progress span{display:block;width:0;height:100%;background:linear-gradient(90deg,color-mix(in srgb,var(--accent) 45%,var(--muted)),color-mix(in srgb,var(--accent-2) 50%,var(--accent)));opacity:.82;transition:width .08s linear;box-shadow:0 0 14px color-mix(in srgb,var(--accent) 24%,transparent);}
       .nav-links a[href^="#"].active{color:var(--text);background:color-mix(in srgb,var(--surface) 56%,transparent);border-color:color-mix(in srgb,var(--accent) 36%,var(--line));}
-      .nav-links a[href^="#"].active::after{content:"";width:.32rem;height:.32rem;border-radius:50%;background:var(--accent);opacity:.65;margin-left:.42rem;}
+      .nav-links a[href^="#"].active::after{display:none!important;content:none!important;}
     `;
     document.head.appendChild(style);
   }
