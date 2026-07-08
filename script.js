@@ -9,4 +9,5 @@ function bindProjectCards(){document.querySelectorAll('.project-card[data-url]')
 loadCss('layout-polish.css?v=20260707-1');
 loadCss('glass-ui.css?v=20260707-2');
 bindProjectCards();
-loadJs('progress-nav.js?v=20260707-2');
+loadJs('i18n/index.js?v=20260708-2');
+loadJs('progress-nav.js?v=20260708-2');
