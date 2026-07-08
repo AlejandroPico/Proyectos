@@ -46,7 +46,7 @@ function initProgressNavigation(){
 }
 function loadPortfolioAddon(src){if(document.querySelector('script[src^="'+src.split('?')[0]+'"]'))return;const s=document.createElement('script');s.async=false;s.src=src;document.body.appendChild(s)}
 function loadPortfolioCss(src){if(document.querySelector('link[href^="'+src.split('?')[0]+'"]'))return;const l=document.createElement('link');l.rel='stylesheet';l.href=src;document.head.appendChild(l)}
-function loadLanguageAddons(){loadPortfolioCss('language-picker.css?v=20260707-1');loadPortfolioAddon('fr.js?v=20260707-1');loadPortfolioAddon('de.js?v=20260707-1');loadPortfolioAddon('tags.js?v=20260707-1');loadPortfolioAddon('language-picker.js?v=20260707-1')}
+function loadLanguageAddons(){loadPortfolioCss('i18n/language-picker.css?v=20260708-1');loadPortfolioAddon('i18n/fr.js?v=20260708-1');loadPortfolioAddon('i18n/de.js?v=20260708-1');loadPortfolioAddon('i18n/tags.js?v=20260708-1');loadPortfolioAddon('i18n/language-picker.js?v=20260708-1');loadPortfolioAddon('i18n/cv-links.js?v=20260708-1')}
 if(document.readyState==='loading'){
   window.addEventListener('DOMContentLoaded',()=>{initProgressNavigation();loadLanguageAddons()},{once:true});
 }else{
