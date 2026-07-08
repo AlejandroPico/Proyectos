@@ -53,9 +53,9 @@ El proyecto está construido como web estática, sin framework pesado:
 
 - Diseño responsive.
 - Modo claro, oscuro y automático.
-- Persistencia de tema mediante `localStorage`.
+- Selector oculto de variantes visuales mediante `Alt + clic` sobre el botón de tema.
+- Persistencia de tema, variante visual e idioma mediante `localStorage`.
 - Selector de idioma modular con manifiesto en `i18n/languages.js`.
-- Persistencia de idioma mediante `localStorage`.
 - Idiomas separados en archivos individuales dentro de `i18n/`.
 - Barra de progreso de scroll.
 - Resaltado de sección activa en navegación.
@@ -72,12 +72,11 @@ El proyecto está construido como web estática, sin framework pesado:
 ├── styles.css
 ├── glass-ui.css
 ├── layout-polish.css
+├── theme-variants.css
 ├── script.js
-├── theme.js
-├── progress-nav.js
 ├── skills-icons.js
-├── reveal.js
 ├── favicon.svg
+├── README.md
 ├── CV/
 │   ├── CV ES - Alejandro Pico.pdf
 │   ├── CV EN - Alejandro Pico.pdf
@@ -93,10 +92,11 @@ El proyecto está construido como web estática, sin framework pesado:
     ├── en.js
     ├── fr.js
     ├── de.js
+    ├── pt.js
+    ├── it.js
     ├── tags.js
     ├── language-picker.js
-    ├── language-picker.css
-    └── cv-links.js
+    └── language-picker.css
 ```
 
 ## Sistema de idiomas
@@ -111,6 +111,8 @@ i18n/ca.js
 i18n/en.js
 i18n/fr.js
 i18n/de.js
+i18n/pt.js
+i18n/it.js
 ```
 
 El manifiesto `i18n/languages.js` declara qué idiomas están disponibles. Para añadir un nuevo idioma:
@@ -118,6 +120,17 @@ El manifiesto `i18n/languages.js` declara qué idiomas están disponibles. Para 
 1. crear un archivo `i18n/xx.js` con el mismo formato que los existentes;
 2. añadir una entrada en `i18n/languages.js`;
 3. revisar textos de proyectos, etiquetas, CV y contacto.
+
+## Organización JavaScript
+
+La funcionalidad principal se ha consolidado para evitar archivos sueltos innecesarios:
+
+- `script.js`: navegación móvil, tema, variantes visuales ocultas, tarjetas clicables, progreso de scroll, animación de entrada y carga del sistema i18n.
+- `skills-icons.js`: renderizado de conocimientos e iconos técnicos.
+- `i18n/index.js`: cargador modular de idiomas.
+- `i18n/core.js`: motor de traducción de textos principales.
+- `i18n/language-picker.js`: selector visual de idiomas.
+- `i18n/tags.js`: traducción de etiquetas de proyectos.
 
 ## Conocimientos representados
 
