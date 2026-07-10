@@ -21,4 +21,4 @@ loadCss('theme-variants.css?v=20260708-2');
 portfolioApplyTheme();
 if(document.readyState==='loading')window.addEventListener('DOMContentLoaded',initPortfolio,{once:true});else initPortfolio();
 document.addEventListener('portfolio-language-change',()=>setTimeout(initScrollReveal,120));
-loadJs('i18n/index.js?v=20260708-8');
+loadJs('i18n/index.js?v=20260710-1');
