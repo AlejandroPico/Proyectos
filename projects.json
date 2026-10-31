@@ -5,7 +5,8 @@
     "created": "2026-10-30T20:24:24Z",
     "url": "https://alejandropico.github.io/Trader/",
     "repo": "https://github.com/AlejandroPico/Trader",
-    "icon": "https://alejandropico.github.io/Trader/favicon.svg"
+    "icon": "https://alejandropico.github.io/Trader/favicon.svg",
+    "description": "Gráficos de mercado e indicadores técnicos."
   },
   {
     "id": "Xtraxtra",
@@ -13,7 +14,8 @@
     "created": "2026-10-29T19:15:20Z",
     "url": "https://alejandropico.github.io/Xtraxtra/",
     "repo": "https://github.com/AlejandroPico/Xtraxtra",
-    "icon": "https://alejandropico.github.io/Xtraxtra/favicon.ico"
+    "icon": "https://alejandropico.github.io/Xtraxtra/favicon.ico",
+    "description": "Noticias y fuentes RSS en un solo lector."
   },
   {
     "id": "Historicmap",
@@ -21,7 +23,8 @@
     "created": "2026-10-21T18:45:37Z",
     "url": "https://alejandropico.github.io/Historicmap/",
     "repo": "https://github.com/AlejandroPico/Historicmap",
-    "icon": "https://alejandropico.github.io/Historicmap/favicon.svg"
+    "icon": "https://alejandropico.github.io/Historicmap/favicon.svg",
+    "description": "Mapas de la Tierra a través de la historia."
   },
   {
     "id": "Lector",
@@ -29,7 +32,8 @@
     "created": "2026-10-13T02:51:36Z",
     "url": "https://alejandropico.github.io/Lector/",
     "repo": "https://github.com/AlejandroPico/Lector",
-    "icon": "https://alejandropico.github.io/Lector/favicon.svg"
+    "icon": "https://alejandropico.github.io/Lector/favicon.svg",
+    "description": "Lectura de libros y documentos digitales."
   },
   {
     "id": "Sizes",
@@ -37,7 +41,8 @@
     "created": "2026-10-12T16:36:57Z",
     "url": "https://alejandropico.github.io/Sizes/",
     "repo": "https://github.com/AlejandroPico/Sizes",
-    "icon": "https://alejandropico.github.io/Sizes/favicon.svg"
+    "icon": "https://alejandropico.github.io/Sizes/favicon.svg",
+    "description": "Comparación visual de tamaños y escalas."
   },
   {
     "id": "Bum",
@@ -45,7 +50,8 @@
     "created": "2026-10-08T22:15:02Z",
     "url": "https://alejandropico.github.io/Bum/",
     "repo": "https://github.com/AlejandroPico/Bum",
-    "icon": "https://alejandropico.github.io/Bum/favicon.svg"
+    "icon": "https://alejandropico.github.io/Bum/favicon.svg",
+    "description": "Simulación de explosiones e impactos."
   },
   {
     "id": "Elecciones",
@@ -53,7 +59,8 @@
     "created": "2026-10-06T16:18:37Z",
     "url": "https://alejandropico.github.io/Elecciones/",
     "repo": "https://github.com/AlejandroPico/Elecciones",
-    "icon": "https://alejandropico.github.io/Elecciones/favicon.svg"
+    "icon": "https://alejandropico.github.io/Elecciones/favicon.svg",
+    "description": "Cuestionario de afinidad política."
   },
   {
     "id": "TMB",
@@ -61,7 +68,8 @@
     "created": "2026-10-06T03:59:34Z",
     "url": "https://alejandropico.github.io/TMB/",
     "repo": "https://github.com/AlejandroPico/TMB",
-    "icon": "https://alejandropico.github.io/TMB/favicon.svg"
+    "icon": "https://alejandropico.github.io/TMB/favicon.svg",
+    "description": "Líneas, paradas y rutas de Barcelona."
   },
   {
     "id": "Transportination",
@@ -69,7 +77,8 @@
     "created": "2026-10-02T18:00:03Z",
     "url": "https://alejandropico.github.io/Transportination/",
     "repo": "https://github.com/AlejandroPico/Transportination",
-    "icon": "https://alejandropico.github.io/Transportination/favicon.svg?v=0.5"
+    "icon": "https://alejandropico.github.io/Transportination/favicon.svg?v=0.5",
+    "description": "Atlas del transporte terrestre, aéreo y marítimo."
   },
   {
     "id": "Games",
@@ -77,7 +86,8 @@
     "created": "2026-09-30T00:04:43Z",
     "url": "https://alejandropico.github.io/Games/",
     "repo": "https://github.com/AlejandroPico/Games",
-    "icon": "https://alejandropico.github.io/Games/favicon.svg"
+    "icon": "https://alejandropico.github.io/Games/favicon.svg",
+    "description": "Juegos de mesa, lógica y estrategia."
   },
   {
     "id": "Molecular",
@@ -85,7 +95,8 @@
     "created": "2026-08-28T17:03:12Z",
     "url": "https://alejandropico.github.io/Molecular/",
     "repo": "https://github.com/AlejandroPico/Molecular",
-    "icon": "https://alejandropico.github.io/Molecular/favicon.svg"
+    "icon": "https://alejandropico.github.io/Molecular/favicon.svg",
+    "description": "Construcción y visualización de moléculas."
   },
   {
     "id": "Universal",
@@ -93,7 +104,8 @@
     "created": "2026-08-27T18:14:30Z",
     "url": "https://alejandropico.github.io/Universal/",
     "repo": "https://github.com/AlejandroPico/Universal",
-    "icon": "https://alejandropico.github.io/Universal/favicon.svg"
+    "icon": "https://alejandropico.github.io/Universal/favicon.svg",
+    "description": "Exploración del universo en tres dimensiones."
   },
   {
     "id": "Episismic",
@@ -101,7 +113,8 @@
     "created": "2026-08-24T08:14:44Z",
     "url": "https://alejandropico.github.io/Episismic/",
     "repo": "https://github.com/AlejandroPico/Episismic",
-    "icon": "https://alejandropico.github.io/Episismic/favicon.svg"
+    "icon": "https://alejandropico.github.io/Episismic/favicon.svg",
+    "description": "Terremotos y actividad sísmica mundial."
   },
   {
     "id": "Auditorium",
@@ -109,7 +122,8 @@
     "created": "2026-08-11T19:53:18Z",
     "url": "https://alejandropico.github.io/Auditorium/",
     "repo": "https://github.com/AlejandroPico/Auditorium",
-    "icon": "https://alejandropico.github.io/Auditorium/favicon.svg"
+    "icon": "https://alejandropico.github.io/Auditorium/favicon.svg",
+    "description": "Composición y experimentación musical."
   },
   {
     "id": "IDE",
@@ -117,7 +131,8 @@
     "created": "2026-08-11T17:03:11Z",
     "url": "https://alejandropico.github.io/IDE/",
     "repo": "https://github.com/AlejandroPico/IDE",
-    "icon": "https://alejandropico.github.io/IDE/favicon.svg"
+    "icon": "https://alejandropico.github.io/IDE/favicon.svg",
+    "description": "Entorno de programación en el navegador."
   },
   {
     "id": "Cosmochronia",
@@ -125,7 +140,8 @@
     "created": "2026-08-11T04:53:48Z",
     "url": "https://alejandropico.github.io/Cosmochronia/",
     "repo": "https://github.com/AlejandroPico/Cosmochronia",
-    "icon": "https://alejandropico.github.io/Cosmochronia/favicon.svg"
+    "icon": "https://alejandropico.github.io/Cosmochronia/favicon.svg",
+    "description": "Historia del universo en una línea temporal."
   },
   {
     "id": "BitWire",
@@ -133,7 +149,8 @@
     "created": "2026-08-04T02:07:11Z",
     "url": "https://alejandropico.github.io/BitWire/",
     "repo": "https://github.com/AlejandroPico/BitWire",
-    "icon": "https://alejandropico.github.io/BitWire/favicon.svg"
+    "icon": "https://alejandropico.github.io/BitWire/favicon.svg",
+    "description": "Diseño y simulación de circuitos."
   },
   {
     "id": "Arteteca",
@@ -141,7 +158,8 @@
     "created": "2026-07-27T20:15:14Z",
     "url": "https://alejandropico.github.io/Arteteca/",
     "repo": "https://github.com/AlejandroPico/Arteteca",
-    "icon": "https://alejandropico.github.io/Arteteca/favicon.svg"
+    "icon": "https://alejandropico.github.io/Arteteca/favicon.svg",
+    "description": "Exploración de obras y disciplinas artísticas."
   },
   {
     "id": "Editor",
@@ -149,7 +167,8 @@
     "created": "2026-07-19T00:19:23Z",
     "url": "https://alejandropico.github.io/Editor/",
     "repo": "https://github.com/AlejandroPico/Editor",
-    "icon": "https://alejandropico.github.io/Editor/favicon.svg"
+    "icon": "https://alejandropico.github.io/Editor/favicon.svg",
+    "description": "Edición de esquemas, mapas e infografías."
   },
   {
     "id": "ReliTree",
@@ -157,7 +176,8 @@
     "created": "2026-07-17T00:40:35Z",
     "url": "https://alejandropico.github.io/ReliTree/",
     "repo": "https://github.com/AlejandroPico/ReliTree",
-    "icon": "https://alejandropico.github.io/ReliTree/favicon.svg"
+    "icon": "https://alejandropico.github.io/ReliTree/favicon.svg",
+    "description": "Historia y evolución de las religiones."
   },
   {
     "id": "ModeloEstandar",
@@ -165,7 +185,8 @@
     "created": "2026-07-13T23:42:03Z",
     "url": "https://alejandropico.github.io/ModeloEstandar/",
     "repo": "https://github.com/AlejandroPico/ModeloEstandar",
-    "icon": "https://alejandropico.github.io/ModeloEstandar/favicon.svg"
+    "icon": "https://alejandropico.github.io/ModeloEstandar/favicon.svg",
+    "description": "Partículas e interacciones fundamentales."
   },
   {
     "id": "MediaWorld",
@@ -173,7 +194,8 @@
     "created": "2026-07-13T17:04:24Z",
     "url": "https://alejandropico.github.io/MediaWorld/",
     "repo": "https://github.com/AlejandroPico/MediaWorld",
-    "icon": "https://alejandropico.github.io/MediaWorld/mediaworld-favicon.svg"
+    "icon": "https://alejandropico.github.io/MediaWorld/mediaworld-favicon.svg",
+    "description": "Radio y televisión de todo el mundo."
   },
   {
     "id": "TunSecProtocol",
@@ -181,7 +203,8 @@
     "created": "2026-07-13T08:17:43Z",
     "url": "https://alejandropico.github.io/TunSecProtocol/",
     "repo": "https://github.com/AlejandroPico/TunSecProtocol",
-    "icon": "https://alejandropico.github.io/TunSecProtocol/favicon.svg"
+    "icon": "https://alejandropico.github.io/TunSecProtocol/favicon.svg",
+    "description": "Consulta de protocolos de respuesta."
   },
   {
     "id": "EvolucionEstelar",
@@ -189,7 +212,8 @@
     "created": "2026-07-12T00:21:02Z",
     "url": "https://alejandropico.github.io/EvolucionEstelar/",
     "repo": "https://github.com/AlejandroPico/EvolucionEstelar",
-    "icon": "https://alejandropico.github.io/EvolucionEstelar/favicon.svg"
+    "icon": "https://alejandropico.github.io/EvolucionEstelar/favicon.svg",
+    "description": "Etapas de la vida de las estrellas."
   },
   {
     "id": "Orbitalis",
@@ -197,7 +221,8 @@
     "created": "2026-07-10T18:44:27Z",
     "url": "https://alejandropico.github.io/Orbitalis/",
     "repo": "https://github.com/AlejandroPico/Orbitalis",
-    "icon": "https://alejandropico.github.io/Orbitalis/favicon.svg"
+    "icon": "https://alejandropico.github.io/Orbitalis/favicon.svg",
+    "description": "Simulación de órbitas y cartografía de satélites."
   },
   {
     "id": "TablaElementos",
@@ -205,7 +230,8 @@
     "created": "2026-07-08T22:20:08Z",
     "url": "https://alejandropico.github.io/TablaElementos/",
     "repo": "https://github.com/AlejandroPico/TablaElementos",
-    "icon": "https://alejandropico.github.io/TablaElementos/favicon.svg"
+    "icon": "https://alejandropico.github.io/TablaElementos/favicon.svg",
+    "description": "Elementos químicos y espectros atómicos."
   },
   {
     "id": "Portfolio",
@@ -213,7 +239,8 @@
     "created": "2026-07-06T08:06:09Z",
     "url": "https://alejandropico.github.io/Portfolio/",
     "repo": "https://github.com/AlejandroPico/Portfolio",
-    "icon": "https://alejandropico.github.io/Portfolio/favicon.svg"
+    "icon": "https://alejandropico.github.io/Portfolio/favicon.svg",
+    "description": "Trayectoria, conocimientos y proyectos."
   },
   {
     "id": "Fractales",
@@ -221,7 +248,8 @@
     "created": "2026-06-25T22:38:25Z",
     "url": "https://alejandropico.github.io/Fractales/",
     "repo": "https://github.com/AlejandroPico/Fractales",
-    "icon": "https://alejandropico.github.io/Fractales/favicon.svg?v=1.1.2"
+    "icon": "https://alejandropico.github.io/Fractales/favicon.svg?v=1.1.2",
+    "description": "Exploración de patrones y formas fractales."
   },
   {
     "id": "Formulas",
@@ -229,7 +257,8 @@
     "created": "2026-06-24T16:39:32Z",
     "url": "https://alejandropico.github.io/Formulas/",
     "repo": "https://github.com/AlejandroPico/Formulas",
-    "icon": "https://alejandropico.github.io/Formulas/favicon.svg"
+    "icon": "https://alejandropico.github.io/Formulas/favicon.svg",
+    "description": "Atlas de ecuaciones y simuladores matemáticos."
   },
   {
     "id": "DiagramaEstelar",
@@ -237,7 +266,8 @@
     "created": "2026-06-09T19:47:40Z",
     "url": "https://alejandropico.github.io/DiagramaEstelar/",
     "repo": "https://github.com/AlejandroPico/DiagramaEstelar",
-    "icon": "https://alejandropico.github.io/DiagramaEstelar/favicon.svg"
+    "icon": "https://alejandropico.github.io/DiagramaEstelar/favicon.svg",
+    "description": "Exploración del diagrama de Hertzsprung–Russell."
   },
   {
     "id": "Oblitus",
@@ -245,7 +275,8 @@
     "created": "2026-06-07T02:10:40Z",
     "url": "https://alejandropico.github.io/Oblitus/",
     "repo": "https://github.com/AlejandroPico/Oblitus",
-    "icon": "https://alejandropico.github.io/Oblitus/assets/media/images/favicon.svg"
+    "icon": "https://alejandropico.github.io/Oblitus/assets/media/images/favicon.svg",
+    "description": "Artículos y documentos de divulgación."
   },
   {
     "id": "Nucleidos",
@@ -253,7 +284,8 @@
     "created": "2026-06-03T11:43:47Z",
     "url": "https://alejandropico.github.io/Nucleidos/",
     "repo": "https://github.com/AlejandroPico/Nucleidos",
-    "icon": "https://alejandropico.github.io/Nucleidos/favicon.svg"
+    "icon": "https://alejandropico.github.io/Nucleidos/favicon.svg",
+    "description": "Consulta de isótopos y propiedades nucleares."
   },
   {
     "id": "IssTracker",
@@ -261,7 +293,8 @@
     "created": "2026-05-19T11:14:55Z",
     "url": "https://alejandropico.github.io/IssTracker/",
     "repo": "https://github.com/AlejandroPico/IssTracker",
-    "icon": "https://alejandropico.github.io/IssTracker/favicon.svg"
+    "icon": "https://alejandropico.github.io/IssTracker/favicon.svg",
+    "description": "Seguimiento de la Estación Espacial Internacional."
   },
   {
     "id": "Cams",
@@ -269,7 +302,8 @@
     "created": "2026-04-28T18:05:00Z",
     "url": "https://alejandropico.github.io/Cams/",
     "repo": "https://github.com/AlejandroPico/Cams",
-    "icon": "https://alejandropico.github.io/Cams/icons/favicon.svg?v=5"
+    "icon": "https://alejandropico.github.io/Cams/icons/favicon.svg?v=5",
+    "description": "Cámaras en directo de todo el mundo."
   },
   {
     "id": "TunSec",
@@ -277,7 +311,8 @@
     "created": "2026-04-26T17:20:40Z",
     "url": "https://alejandropico.github.io/TunSec/",
     "repo": "https://github.com/AlejandroPico/TunSec",
-    "icon": "https://alejandropico.github.io/TunSec/favicon.svg"
+    "icon": "https://alejandropico.github.io/TunSec/favicon.svg",
+    "description": "Registro de incidencias en túneles."
   },
   {
     "id": "C_Piscine_42",
@@ -285,7 +320,8 @@
     "created": "2025-12-08T16:02:10Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/C_Piscine_42",
-    "icon": null
+    "icon": null,
+    "description": "Ejercicios de programación en C de 42 Barcelona."
   },
   {
     "id": "Epuber",
@@ -293,7 +329,8 @@
     "created": "2025-11-06T17:41:57Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Epuber",
-    "icon": null
+    "icon": null,
+    "description": "Gestión de archivos EPUB, MOBI y PDF."
   },
   {
     "id": "C_Piscine_Shell_00",
@@ -301,7 +338,8 @@
     "created": "2025-10-28T17:25:13Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/C_Piscine_Shell_00",
-    "icon": null
+    "icon": null,
+    "description": "Ejercicios de Shell de 42 Barcelona."
   },
   {
     "id": "Biografias",
@@ -309,7 +347,8 @@
     "created": "2025-05-24T20:27:19Z",
     "url": "https://alejandropico.github.io/Biografias/",
     "repo": "https://github.com/AlejandroPico/Biografias",
-    "icon": "https://alejandropico.github.io/Biografias/favicon.svg"
+    "icon": "https://alejandropico.github.io/Biografias/favicon.svg",
+    "description": "Archivo de historias y recuerdos personales."
   },
   {
     "id": "NasaApi",
@@ -317,7 +356,8 @@
     "created": "2025-02-22T01:04:00Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/NasaApi",
-    "icon": null
+    "icon": null,
+    "description": "Consulta de la imagen astronómica del día."
   },
   {
     "id": "Snake",
@@ -325,7 +365,8 @@
     "created": "2025-02-19T23:08:25Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Snake",
-    "icon": null
+    "icon": null,
+    "description": "El clásico juego de la serpiente."
   },
   {
     "id": "Calculadora",
@@ -333,7 +374,8 @@
     "created": "2025-02-19T20:22:45Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Calculadora",
-    "icon": null
+    "icon": null,
+    "description": "Calculadora con interfaz gráfica."
   },
   {
     "id": "Breakout",
@@ -341,7 +383,8 @@
     "created": "2025-02-19T00:19:52Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Breakout",
-    "icon": null
+    "icon": null,
+    "description": "Juego de romper bloques personalizable."
   },
   {
     "id": "SignatureCapture",
@@ -349,7 +392,8 @@
     "created": "2025-02-15T17:54:38Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/SignatureCapture",
-    "icon": null
+    "icon": null,
+    "description": "Captura y edición de firmas."
   },
   {
     "id": "ColorPicker",
@@ -357,7 +401,8 @@
     "created": "2025-02-09T00:51:46Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/ColorPicker",
-    "icon": null
+    "icon": null,
+    "description": "Selección de colores y consulta de sus valores."
   },
   {
     "id": "Ajedrez",
@@ -365,7 +410,8 @@
     "created": "2024-10-08T16:21:08Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Ajedrez",
-    "icon": null
+    "icon": null,
+    "description": "Juego de ajedrez."
   },
   {
     "id": "Tictactoe",
@@ -373,7 +419,8 @@
     "created": "2024-10-07T10:58:21Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Tictactoe",
-    "icon": null
+    "icon": null,
+    "description": "Juego de tres en raya."
   },
   {
     "id": "Voicetext",
@@ -381,7 +428,8 @@
     "created": "2024-10-06T23:42:46Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Voicetext",
-    "icon": null
+    "icon": null,
+    "description": "Conversión de voz a texto."
   },
   {
     "id": "Tamagochi",
@@ -389,7 +437,8 @@
     "created": "2024-10-06T20:21:32Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Tamagochi",
-    "icon": null
+    "icon": null,
+    "description": "Juego de mascota virtual."
   },
   {
     "id": "Reloj",
@@ -397,7 +446,8 @@
     "created": "2024-09-27T01:38:30Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/Reloj",
-    "icon": null
+    "icon": null,
+    "description": "Reloj con interfaz gráfica."
   },
   {
     "id": "StarWarsApi",
@@ -405,7 +455,8 @@
     "created": "2024-09-19T21:48:52Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/StarWarsApi",
-    "icon": null
+    "icon": null,
+    "description": "Consulta de datos del universo Star Wars."
   },
   {
     "id": "HomelessHelper",
@@ -413,6 +464,7 @@
     "created": "2023-02-14T15:15:53Z",
     "url": null,
     "repo": "https://github.com/AlejandroPico/HomelessHelper",
-    "icon": null
+    "icon": null,
+    "description": "Proyecto de ayuda a personas sin hogar."
   }
 ]
