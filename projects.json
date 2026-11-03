@@ -1,5 +1,23 @@
 [
   {
+    "id": "Tools",
+    "name": "Tools",
+    "created": "2026-11-03T10:48:03Z",
+    "url": null,
+    "repo": "https://github.com/AlejandroPico/Tools",
+    "icon": null,
+    "description": "Caja de herramientas para el navegador, en desarrollo."
+  },
+  {
+    "id": "VideoGames",
+    "name": "VideoGames",
+    "created": "2026-11-03T10:06:28Z",
+    "url": "https://alejandropico.github.io/VideoGames/",
+    "repo": "https://github.com/AlejandroPico/VideoGames",
+    "icon": "https://alejandropico.github.io/VideoGames/favicon.svg",
+    "description": "Emulación de consolas y ordenadores en el navegador."
+  },
+  {
     "id": "Electrogames",
     "name": "ElectroGames",
     "created": "2026-11-03T00:18:34Z",
