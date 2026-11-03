@@ -12,6 +12,8 @@ Temas Mañana, Tarde, Noche y Automático según la hora local del navegador: ma
 
 Editar `projects.json` o `private-projects.json` y ejecutar `node build.mjs`. Subir también el `index.html` generado. Comprobar la visibilidad antes de cambiar un proyecto de sección. Los proyectos privados solo enlazan al repositorio.
 
+Las fichas de aplicaciones cargan directamente `favicon.svg` desde la raíz de la aplicación publicada. Si falla, prueban `favicon.png`; por compatibilidad, después pueden usar una ruta antigua indicada en `icon`. Si no se encuentra ninguna imagen, aparecen las iniciales. Para nuevas aplicaciones basta con indicar su `url`: el campo `icon` es opcional. Los cambios de favicon se recogen desde cada proyecto, respetando la caché normal del navegador, sin copiar imágenes al catálogo ni consultar la API al abrirlo.
+
 ## Publicar
 
 GitHub Pages desde la rama `main`, carpeta raíz. No requiere instalación ni compilación en el servidor.

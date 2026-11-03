@@ -36,13 +36,22 @@ for (const button of buttons) button.addEventListener('click', () => {
   try { localStorage.setItem('project-view', button.dataset.view); } catch {}
 });
 try { setView(localStorage.getItem('project-view')); } catch {}
-for (const image of grid.querySelectorAll('img')) {
+function attachProjectIcon(image) {
+  const fallbacks = JSON.parse(image.dataset.fallbacks || '[]');
+  const tryNext = () => {
+    const next = fallbacks.shift();
+    if (next) {
+      image.classList.remove('loaded');
+      image.src = next;
+    } else image.remove();
+  };
   image.addEventListener('load', () => image.classList.add('loaded'), {once:true});
-  image.addEventListener('error', () => image.remove(), {once:true});
+  image.addEventListener('error', tryNext);
   if (image.complete) {
     if (image.naturalWidth) image.classList.add('loaded');
-    else image.remove();
+    else tryNext();
   }
 }
+for (const image of grid.querySelectorAll('img')) attachProjectIcon(image);
 document.addEventListener('keydown', event => { if (event.key === 'Escape') about.open = false; });
 document.addEventListener('click', event => { if (!about.contains(event.target)) about.open = false; });

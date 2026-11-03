@@ -3,10 +3,10 @@
     "id": "Tools",
     "name": "Tools",
     "created": "2026-11-03T10:48:03Z",
-    "url": null,
+    "url": "https://alejandropico.github.io/Tools/",
     "repo": "https://github.com/AlejandroPico/Tools",
     "icon": null,
-    "description": "Caja de herramientas para el navegador, en desarrollo."
+    "description": "Calculadora, grabadora de audio y explorador de archivos."
   },
   {
     "id": "VideoGames",
@@ -302,7 +302,7 @@
     "created": "2026-06-07T02:10:40Z",
     "url": "https://alejandropico.github.io/Oblitus/",
     "repo": "https://github.com/AlejandroPico/Oblitus",
-    "icon": "https://alejandropico.github.io/Oblitus/assets/media/images/favicon.svg",
+    "icon": null,
     "description": "Artículos y documentos de divulgación."
   },
   {
