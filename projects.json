@@ -1,5 +1,14 @@
 [
   {
+    "id": "Electrogames",
+    "name": "ElectroGames",
+    "created": "2026-11-03T00:18:34Z",
+    "url": "https://alejandropico.github.io/Electrogames/",
+    "repo": "https://github.com/AlejandroPico/Electrogames",
+    "icon": "https://alejandropico.github.io/Electrogames/favicon.svg",
+    "description": "Clásicos de recreativa para jugar en el navegador."
+  },
+  {
     "id": "Trader",
     "name": "Trader",
     "created": "2026-10-30T20:24:24Z",
