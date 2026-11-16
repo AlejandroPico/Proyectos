@@ -225,13 +225,13 @@
     "description": "Edición de esquemas, mapas e infografías."
   },
   {
-    "id": "ReliTree",
-    "name": "ReliTree",
+    "id": "Relitree",
+    "name": "Relitree",
     "created": "2026-07-17T00:40:35Z",
-    "url": "https://alejandropico.github.io/ReliTree/",
-    "repo": "https://github.com/AlejandroPico/ReliTree",
-    "icon": "https://alejandropico.github.io/ReliTree/favicon.svg",
-    "description": "Historia y evolución de las religiones."
+    "url": "https://alejandropico.github.io/Relitree/",
+    "repo": "https://github.com/AlejandroPico/Relitree",
+    "icon": null,
+    "description": "Árbol interactivo de la historia de las religiones."
   },
   {
     "id": "ModeloEstandar",
